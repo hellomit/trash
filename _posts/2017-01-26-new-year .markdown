@@ -5,8 +5,8 @@ date: 2017-01-26
 categories:
   - Fresh
 description: 
-image: https://github.com/hellomit/hellomit.github.io/blob/master/image/yourname.jpg
-image-sm: https://unsplash.it/500/300?image=1003
+image:  http://img2.niutuku.com/desk/1208/1304/ntk-1304-40465.jpg
+image-sm: ./image/yourname.jpg
 ---
 So Happy new year! In the past one year,i get an answer, the more i get the more i lost.
 even i am single, but i love the life, i have many questions to explore, to find something intrested.
