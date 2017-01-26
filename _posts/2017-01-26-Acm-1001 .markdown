@@ -3,7 +3,7 @@ layout: post
 title: "Acm1001"
 date: 2017-01-27
 categories:
-  - Acm
+  - ACM
 description: 
 image:  ./image/planet.jpg
 image-sm: ./image/yourname.jpg
