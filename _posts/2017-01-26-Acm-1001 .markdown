@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "New Year"
-date: 2017-01-26
+title: "Acm1001"
+date: 2017-01-27
 categories:
   - Acm
 description: 
 image:  ./image/planet.jpg
 image-sm: ./image/yourname.jpg
 ---
-##About A+B Problem
-'1001代码区域'
+
+## About A+B Problem
+
 
 <pre><code>#include <stdio.h> 
     void main()
@@ -18,5 +19,5 @@ image-sm: ./image/yourname.jpg
     while(scanf("%d %d",&a,&b)!=-1)
     printf("%d\n",a+b);
     }
-</code></pre>
+
 这个问题只是用来试水的很简单，不解释。
