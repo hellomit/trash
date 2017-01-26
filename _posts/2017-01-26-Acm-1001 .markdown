@@ -1,0 +1,22 @@
+---
+layout: post
+title: "New Year"
+date: 2017-01-26
+categories:
+  - Acm
+description: 
+image:  ./image/planet.jpg
+image-sm: ./image/yourname.jpg
+---
+##About A+B Problem
+'1001代码区域'
+
+<pre><code>#include <stdio.h> 
+    void main()
+    {
+    int a,b;
+    while(scanf("%d %d",&a,&b)!=-1)
+    printf("%d\n",a+b);
+    }
+</code></pre>
+这个问题只是用来试水的很简单，不解释。
